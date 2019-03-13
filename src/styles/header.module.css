@@ -1,0 +1,17 @@
+.Header {
+  margin: auto;
+  padding:15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:500;
+  color:white;
+  background: #000;
+
+}
+
+.Header h1:hover {
+  color: #126DC9;
+}
+
+.Header p:hover {
+  color: #126DC9;
+}
